@@ -1,3 +1,3 @@
-Repositorio de prueba creado por Alberto Novella Sanz
+Repositorio de prueba creado por Alberto Novella Sanz.
 
-El proyecto contiene una página web
+El proyecto contiene una página web.
